@@ -352,6 +352,10 @@ color: rgba(2, 85, 85, 0.802);
         color: black !important;  
         text-transform: uppercase !important;
     }
+    .btn-top:hover{
+
+        background-color: var(--Yellow);
+    }
     .menu-bar::before{
        display: none;
     }
